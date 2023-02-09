@@ -25,13 +25,14 @@ Feel free to [add something interesting](contributing.md) by pull request.
 
 ## Principles
 #### Guides & Articles
-- [Comprehensive Product Design Guide](]https://xd.adobe.com/ideas/guides/comprehensive-guide-product-design-part-1/) 
+- [Comprehensive Product Design Guide](https://xd.adobe.com/ideas/guides/comprehensive-guide-product-design-part-1/) 
 - [Surviving & Thriving as a Solo Product Designer](https://uxdesign.cc/surviving-and-thriving-as-a-solo-product-designer-7ca7b315ad87tk)
 - [Ten Rules for Web Startups](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
 - [The Lean Startup Principles](https://theleanstartup.com/principles)
 - [Navigating as a Solo Designer in a Startup](https://www.memorisely.com/blog/navigating-as-a-solo-designer-in-a-startup)
 - [Good Enough Design Course](https://goodenough.design)· [Repo](https://github.com/alarisprime/good-enough-design)
 - [Guide to Building a Strong Product Design Team](https://bootcamp.uxdesign.cc/a-startups-guide-to-building-a-strong-product-design-team-907e3efe7753)
+- [Systematic Product Design for Startups](https://uxdesign.cc/systematic-product-design-for-startups-9917f89773e)
 #### Books
 - [Value Proposition Design](https://a.co/d/cVo5TgK)
 - [Talking to Humans](https://a.co/d/8hZeTBp)
