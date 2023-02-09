@@ -31,6 +31,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [The Lean Startup Principles](https://theleanstartup.com/principles)
 - [Navigating as a Solo Designer in a Startup](https://www.memorisely.com/blog/navigating-as-a-solo-designer-in-a-startup)
 - [Good Enough Design Course](https://goodenough.design)· [Repo](https://github.com/alarisprime/good-enough-design)
+- [Guide to Building a Strong Product Design Team](https://bootcamp.uxdesign.cc/a-startups-guide-to-building-a-strong-product-design-team-907e3efe7753)
 #### Books
 - [Value Proposition Design](https://a.co/d/cVo5TgK)
 - [Talking to Humans](https://a.co/d/8hZeTBp)
