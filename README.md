@@ -180,6 +180,8 @@ Feel free to [add something interesting](contributing.md) by pull request.
 #### Tools
 - [Polarr](https://photoeditor.polarr.co/) - Photo Editor.
 - [Licecap](https://www.cockos.com/licecap/) - Simple animated screen captures.
+- [Kap](https://getkap.co) - Capture your screen
+- [Screen Studio](https://www.screen.studio) - Screen recordings
 - [Hand Brake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 ## Prototype
@@ -215,6 +217,9 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
 
 ## Writing
+- [Chat GPT](https://chat.apps.openai.com) - AI driven 
+- [Writer for Chrome](https://chrome.google.com/webstore/detail/writer/hngnkmianenpifegfoggnkamjnffiobn?hl=en) - Chrome Extension
+- [Wordtune](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc?hl=en) - Chrome Extension
 - [Google trends](https://trends.google.com/trends/) - Stories trending now.
 - [Google Ngram](https://books.google.com/ngrams/) - Enter phrases into the Google Books Ngram Viewer, it displays a graph showing how those phrases have occurred in a corpus of books.
 - [Hemingway](https://www.hemingwayapp.com/) - Hemingway App makes your writing bold and clear.
