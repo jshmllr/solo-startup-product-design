@@ -4,9 +4,9 @@
   </a>
 </div>
 
-# Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Startup Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A collection of bookmarks, resources, articles for product designers.
+**So you're a solo product designer at a startup or larger org? A collection of bookmarks, resources, articles.**
 
 [Digital product design](https://en.wikipedia.org/wiki/Digital_product_design) is an iterative design process to solve a functional problem with a formal solution. A digital product designer identifies a real problem, offers the best possible solution, and launch it to a market that is showing demand for that particular solution.
 
@@ -22,6 +22,18 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [Writing](#writing)
 - [Data](#data)
 - [IoT](#iot)
+
+## Principles
+#### Guides & Articles
+- [Comprehensive Product Design Guide](]https://xd.adobe.com/ideas/guides/comprehensive-guide-product-design-part-1/) 
+- [Surviving & Thriving as a Solo Product Designer](https://uxdesign.cc/surviving-and-thriving-as-a-solo-product-designer-7ca7b315ad87tk)
+- [Ten Rules for Web Startups](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
+- [The Lean Startup Principles](https://theleanstartup.com/principles)
+- [Navigating as a Solo Designer in a Startup](https://www.memorisely.com/blog/navigating-as-a-solo-designer-in-a-startup)
+- [Good Enough Design Course](https://goodenough.design)· [Repo](https://github.com/alarisprime/good-enough-design)
+#### Books
+- [Value Proposition Design](https://a.co/d/cVo5TgK)
+- [Talking to Humans](https://a.co/d/8hZeTBp)
 
 ## Research
 #### Methods
